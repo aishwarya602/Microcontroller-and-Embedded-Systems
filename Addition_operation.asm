@@ -1,0 +1,3 @@
+MOV A, #25H
+MOV RO, #12H
+ADD A, R0
